@@ -7,6 +7,17 @@
     ██║╚██████╔╝   ██║       ██║     ██║  ██║╚██████╔╝   ██║   ╚██████╔╝╚██████╗╚██████╔╝███████╗███████║
 
 
+* [IEEE 802.15™: WIRELESS PERSONAL AREA NETWORKS (PANs)][1]
+* [IEEE 802®: LOCAL AND METROPOLITAN AREA NETWORK STANDARDS][2]
+* [The Constrained Application Protocol (CoAP)][3]
+* [Coexistence analysis of IEEE Std 802.15.4 with other IEEE standards and proposed standards][4]
+* [Bluetooth core specification][7]
+* [Compression Format for IPv6 Datagrams over IEEE 802.15.4-Based Networks][9]
+* [Stateful NAT64: Network Address and Protocol Translation from IPv6 Clients to IPv4 Servers][10]
+* [MQTT is a machine-to-machine (M2M)/Internet of Things connectivity protocol][12]
+* [RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks][13]
+* [Datagram Transport Layer Security Version 1.2][15]
+
 
 [1]: http://standards.ieee.org/about/get/802/802.15.html "IEEE 802.15™: WIRELESS PERSONAL AREA NETWORKS (PANs)"
 [2]: http://standards.ieee.org/getieee802/download/802.15.4-2015.pdf " IEEE 802®: LOCAL AND METROPOLITAN AREA NETWORK STANDARDS"
